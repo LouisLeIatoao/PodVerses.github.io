@@ -239,7 +239,7 @@ a {
 
 .home {
     min-height: 100vh;
-    background: url(/images/large_2x.gif) no-repeat;
+    background: url(./images/large_2x.gif) no-repeat;
     background-size: cover;
     background-position: center;
     margin-top: -134px;
